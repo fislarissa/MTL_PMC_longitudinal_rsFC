@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: Fischer
+  given-names: Larissa
+orcid: https://orcid.org/0009-0001-9936-2954
+title:fislarissa/MTL_PMC_longitudinal_rsFC: MTL_PMC_longitudinal_rsFC
+version: published_version
+date-released: 2025-07-18
